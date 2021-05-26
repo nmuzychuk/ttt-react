@@ -1,5 +1,5 @@
 # Tic-tac-toe React
-[![Build Status](https://travis-ci.org/nmuzychuk/ttt-react.svg?branch=master)](https://travis-ci.org/nmuzychuk/ttt-react)
+[![Node.js CI](https://github.com/nmuzychuk/ttt-react/actions/workflows/node.js.yml/badge.svg)](https://github.com/nmuzychuk/ttt-react/actions/workflows/node.js.yml)
 
 ## Overview
 React tutorial app with minor modifications
